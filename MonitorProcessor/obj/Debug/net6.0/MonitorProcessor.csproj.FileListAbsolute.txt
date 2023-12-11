@@ -1,0 +1,89 @@
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.csproj.AssemblyReference.cache
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.AssemblyInfoInputs.cache
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.AssemblyInfo.cs
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.csproj.CoreCompileInputs.cache
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.exe
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.deps.json
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.runtimeconfig.json
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.pdb
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\RestSharp.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.csproj.CopyComplete
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\refint\MonitorProcessor.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.pdb
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.genruntimeconfig.cache
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\ref\MonitorProcessor.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\rdornelas\Documents\Alfamed\Desenvolvimento\Real Time Server\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.exe
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.deps.json
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.runtimeconfig.json
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.pdb
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\RestSharp.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.csproj.AssemblyReference.cache
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.AssemblyInfoInputs.cache
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.AssemblyInfo.cs
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.csproj.CoreCompileInputs.cache
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.csproj.CopyComplete
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\refint\MonitorProcessor.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.pdb
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.genruntimeconfig.cache
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\ref\MonitorProcessor.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\GodSharp.Socket.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.exe
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.deps.json
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.runtimeconfig.json
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\MonitorProcessor.pdb
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\GodSharp.Socket.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.csproj.AssemblyReference.cache
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.AssemblyInfoInputs.cache
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.AssemblyInfo.cs
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.csproj.CopyComplete
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\refint\MonitorProcessor.dll
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.pdb
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\MonitorProcessor.genruntimeconfig.cache
+C:\Users\Cadu\Desktop\RealTimeServer\MonitorProcessor\obj\Debug\net6.0\ref\MonitorProcessor.dll
